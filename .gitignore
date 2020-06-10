@@ -83,3 +83,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+.DS_Store
+
+Lesson_1_Build_your_first_app/DiceRoller/gradle/wrapper/
+
+Lesson_1_Build_your_first_app/DiceRoller/.idea/
